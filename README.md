@@ -15,4 +15,14 @@ The original technique has six steps:
 5. Going back to Step 2 and repeating until one completes four pomodori.
 6. After four pomodori are done, one takes a long break (typically 20 to 30 minutes) instead of a short break. Once the long break is finished, one returns to step 2.
 
+
+
 For the purposes of the technique, a pomodoro is an interval of work time (and pomodori is the plural form).
+
+Once the script is run, the tkinter GUI appears in awindow like this:
+
+![GUI_View](https://i.postimg.cc/vZLGFC5C/GH19.png)
+
+Then, the use can click on **Start** button to begin the pomodoro timer which run the time countdown for 25 minutes to 0, during which the user can focus on the decided task.
+
+![Start_Work_Timer](https://i.postimg.cc/g2w3gqRz/GH15.png)
