@@ -39,4 +39,4 @@ After the completion of **Long Break Timer** the green ticks dissappear from GUI
 
 ![Work Timer Reappear](https://i.postimg.cc/T3yntqmT/GH18.png)
 
-At any moment, if the user want to stop the timer and reset it, they can achieve it by clicking on **Reset** button. Also, the schedule for **Work Timer**, **Short Break Timer** and **Longg Break Timer** can be adjusted according to user preference and needs in the script anytime.
+At any moment, if the user want to stop the timer and reset it, they can achieve it by clicking on **Reset** button. Also, the schedule for **Work Timer**, **Short Break Timer** and **Long Break Timer** can be adjusted according to user preference and needs in the script anytime.
