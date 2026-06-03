@@ -23,6 +23,20 @@ Once the script is run, the tkinter GUI appears in awindow like this:
 
 ![GUI_View](https://i.postimg.cc/vZLGFC5C/GH19.png)
 
-Then, the use can click on **Start** button to begin the pomodoro timer which run the time countdown for 25 minutes to 0, during which the user can focus on the decided task.
+Then, the use can click on **Start** button to begin the **Work Timer** which run the time countdown for 25 minutes to 0, during which the user can focus on the decided task.
 
 ![Start_Work_Timer](https://i.postimg.cc/g2w3gqRz/GH15.png)
+
+Once the Work Timer reaches zero, it switches to **Short Break Timer**, and the green tick appears indiating the completion of 1 pomodoro.
+
+![Short_break_timer](https://i.postimg.cc/jSWyMQNS/GH16.png)
+
+Then, the above cycle of **Work Timer** followed by **Short Break Timer** until four green tick appears on the GUI screen ( Indicating completion of 4 pomodori). Now, the **Long Break Timer** Activates.
+
+![Long Break Timer](https://i.postimg.cc/VkSXKBMN/GH17.png)
+
+After the completion of **Long Break Timer** the green ticks dissappear from GUI screen and the **Work Timer** appears again and the above cycle continues.
+
+![Work Timer Reappear](https://i.postimg.cc/T3yntqmT/GH18.png)
+
+In any time, if the user want to stop the timer and reset it, they can aheive it by clicking on **Reset** button.
