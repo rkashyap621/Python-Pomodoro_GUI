@@ -19,19 +19,19 @@ The original technique has six steps:
 
 For the purposes of the technique, a pomodoro is an interval of work time (and pomodori is the plural form).
 
-Once the script is run, the tkinter GUI appears in awindow like this:
+Once the script is run, the tkinter GUI appears in a window like this:
 
 ![GUI_View](https://i.postimg.cc/vZLGFC5C/GH19.png)
 
-Then, the use can click on **Start** button to begin the **Work Timer** which run the time countdown for 25 minutes to 0, during which the user can focus on the decided task.
+Then, the user can click on **Start** button to begin the **Work Timer** which will run the time countdown for 25 minutes to 0, during which the user can focus on the decided task.
 
 ![Start_Work_Timer](https://i.postimg.cc/g2w3gqRz/GH15.png)
 
-Once the Work Timer reaches zero, it switches to **Short Break Timer**, and the green tick appears indiating the completion of 1 pomodoro.
+Once the Work Timer reaches zero, it switches to **Short Break Timer** fpr cpount dpwn from 5 minutes to 0, and the green tick appears indiating the completion of 1 pomodoro.
 
 ![Short_break_timer](https://i.postimg.cc/jSWyMQNS/GH16.png)
 
-Then, the above cycle of **Work Timer** followed by **Short Break Timer** until four green tick appears on the GUI screen ( Indicating completion of 4 pomodori). Now, the **Long Break Timer** Activates.
+Then, the above cycle of **Work Timer** followed by **Short Break Timer** until four green tick appears on the GUI screen ( Indicating completion of 4 pomodori). Now, the **Long Break Timer** Activates, which will run time countdown from 20 minutes to 0.
 
 ![Long Break Timer](https://i.postimg.cc/VkSXKBMN/GH17.png)
 
@@ -39,4 +39,4 @@ After the completion of **Long Break Timer** the green ticks dissappear from GUI
 
 ![Work Timer Reappear](https://i.postimg.cc/T3yntqmT/GH18.png)
 
-At any moment, if the user want to stop the timer and reset it, they can aheive it by clicking on **Reset** button.
+At any moment, if the user want to stop the timer and reset it, they can achieve it by clicking on **Reset** button. Also, the schedule for **Work Timer**, **Short Break Timer** and **Longg Break Timer** can be adjusted according to user preference and needs in the script anytime.
