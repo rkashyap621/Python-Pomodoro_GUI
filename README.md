@@ -39,4 +39,4 @@ After the completion of **Long Break Timer** the green ticks dissappear from GUI
 
 ![Work Timer Reappear](https://i.postimg.cc/T3yntqmT/GH18.png)
 
-In any time, if the user want to stop the timer and reset it, they can aheive it by clicking on **Reset** button.
+At any moment, if the user want to stop the timer and reset it, they can aheive it by clicking on **Reset** button.
